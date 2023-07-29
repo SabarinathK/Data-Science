@@ -1,0 +1,41 @@
+Python 
+
+Variable
+Data types
+  - int
+  - float
+  - str
+  - bool
+  - None
+  - list 
+  - tuple 
+  - set
+  - dict
+operators
+if,else and elif statement 
+for, while loop
+function- modules
+OOPs
+error handling
+---------
+array
+data time
+list comprehension
+------
+good practice:
+adding else in for loop
+.copy()
+loggings
+ENV file 
+--------
+how to remove duplicates in list and tuple
+how to change value in tuple
+how to remove whitespace 
+
+
+
+
+
+
+
+
