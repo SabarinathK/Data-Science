@@ -34,6 +34,54 @@ how to remove whitespace
 
 
 
+['as',
+ 'assert',
+ 'async',
+ 'await',
+ 'class',
+ 'except',
+ 'finally',
+ 'from',
+ 'global',
+ 'import',
+ 'lambda',
+ 'nonlocal',
+ 'not',
+ 'raise',
+ 'try',
+ 'with',
+ 'yield']
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
