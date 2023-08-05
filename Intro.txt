@@ -16,6 +16,7 @@ if,else and elif statement
 for, while loop
 function- modules
 OOPs
+
 error handling
 ---------
 array
@@ -28,11 +29,12 @@ adding else in for loop
 loggings
 ENV file 
 --------
+nested concept ?
+
 how to remove duplicates in list and tuple
 how to change value in tuple
 how to remove whitespace 
-
-
+recursion function
 
 ['as',
  'assert',
