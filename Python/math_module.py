@@ -16,3 +16,11 @@ def sub(b,a=0):   # here 0 is the default value of the function
     '''
     c=a-b
     return a,b,c
+
+def tax (price,tax_per):
+    tax_amount=price+((price/100)*tax_per)
+    return price
+
+def total_price (a,price):
+    total=a*price
+    return total_price
