@@ -1,0 +1,11 @@
+age,sex,bmi,children,smoker,region,charges,sex_smoker
+31.0,male,28.5,5,no,northeast,6799.458,male no
+47.0,male,28.215,4,no,northeast,10407.08585,male no
+26.0,female,29.64,4,no,northeast,24671.66334,female no
+48.0,male,35.625,4,no,northeast,10736.87075,male no
+57.0,female,28.785,4,no,northeast,14394.39815,female no
+24.0,male,33.63,4,no,northeast,17128.42608,male no
+20.0,male,30.115,5,no,northeast,4915.05985,male no
+18.0,female,31.35,4,no,northeast,4561.1885,female no
+41.0,male,29.64,5,no,northeast,9222.4026,male no
+35.0,male,39.71,4,no,northeast,19496.71917,male no
